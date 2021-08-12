@@ -1,0 +1,9 @@
+{
+	"itemGroup.lootbags": "Lootbags",
+	"item.lootbags.common_lootbag": "Common Lootbag",
+	"item.lootbags.uncommon_lootbag": "Uncommon Lootbag",
+	"item.lootbags.rare_lootbag": "Rare Lootbag",
+	"item.lootbags.epic_lootbag": "Epic Lootbag",
+	"item.lootbags.legendary_lootbag": "Legendary Lootbag",
+	"lootbags.rewards.title": "The lootbag contains.."
+}
